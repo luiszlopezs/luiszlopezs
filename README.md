@@ -1,12 +1,45 @@
-- 👋 Hi, I’m luiszlopezs ♠️
-- 🌱 I’m currently learning programming
-- 📫 How to reach me 
-- ⚽ I love football
-- 🌎 I live here
-### ⚙️ &nbsp;GitHub Analytics
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiszlopezs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="luiszlopezsStats's Github Stats">
+# 👋 Welcome to My GitHub Profile!  
 
-![file](https://github.com/user-attachments/assets/a7bd4d3b-6794-43d9-8ed4-e99e1ffb1485)
+Hi, I’m **luiszlopezs** ♠️  
+
+- 🌱 Currently learning programming  
+- ⚽ Passionate about football  
+- 🌎 Living life to the fullest  
+
+
+<h2>📫 Connect with Me</h2>
+
+<p >
+  <a href="https://github.com/luiszlopezs">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</p>
+
+
+
+<h2>⚙️ GitHub Analytics</h2>
+
+![luiszlopezs's Stats](https://github-readme-stats.vercel.app/api?username=luiszlopezs&theme=blue-green&show_icons=true&hide_border=true&count_private=true)  
+![luiszlopezs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiszlopezs&theme=blue-green&show_icons=true&hide_border=true&layout=compact)  
+
+
+
+<h2>📂 Projects</h2>
+Stay tuned for exciting projects coming soon!
+
+<p align="center">
+  [bannerFelix](https://github.com/luiszlopezs/luiszlopezs/blob/main/8ejRRybRC4Ymf06rzClbRh8uIga.jpg)
+</p>
+
+
+
+
 
 <!---
 luiszlopezs/luiszlopezs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
