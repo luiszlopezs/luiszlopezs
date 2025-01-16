@@ -33,8 +33,10 @@ Hi, I’m **luiszlopezs** ♠️
 <h2>📂 Projects</h2>
 Stay tuned for exciting projects coming soon!
 
+---
+
 <p align="center">
-  [bannerFelix](https://github.com/luiszlopezs/luiszlopezs/blob/main/8ejRRybRC4Ymf06rzClbRh8uIga.jpg)
+  <img src="https://github.com/luiszlopezs/luiszlopezs/blob/main/8ejRRybRC4Ymf06rzClbRh8uIga.jpg" alt="bannerFelix">
 </p>
 
 
