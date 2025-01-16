@@ -4,7 +4,6 @@ Hi, I’m **luiszlopezs** ♠️
 
 - 🌱 Currently learning programming  
 - ⚽ Passionate about football  
-- 🌎 Living life to the fullest  
 
 
 <h2>📫 Connect with Me</h2>
