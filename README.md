@@ -9,14 +9,12 @@ Hi, I’m **luiszlopezs** ♠️
 <h2>📫 Connect with Me</h2>
 
 <p >
-  <a href="https://github.com/luiszlopezs">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/luisz-lopezs-32946b347/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  <a href="mailto:soyhailen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
@@ -29,8 +27,6 @@ Hi, I’m **luiszlopezs** ♠️
 
 
 
-<h2>📂 Projects</h2>
-Stay tuned for exciting projects coming soon!
 
 ---
 
