@@ -10,7 +10,7 @@ Hi, I’m **luiszlopezs** ♠️
 
 <p >
   </a>
-  <a href="https://www.linkedin.com/in/luisz-lopezs-32946b347/">
+  <a href="[https://www.linkedin.com/in/luisz-lopezs-32946b347/](https://www.linkedin.com/in/luisz-lopezs-32946b347/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:soyhailen@gmail.com">
